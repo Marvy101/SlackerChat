@@ -1,6 +1,6 @@
 # Slacker Chat - A Simple UDP Chat Application
 
-Slacker Chat is a fun and lightweight college project that provides a simple chat platform for people to connect and communicate in real-time! We've created this application using Java for both the client and server side, and Java Swing for the GUI.
+Slacker Chat is a fun and lightweight college project that provides a simple chat platform for people to connect and communicate over their local network in real-time! We've created this application using Java for both the client and server side, and Java Swing for the GUI.
 
 ## How It Works
 
@@ -22,10 +22,10 @@ To run Slacker Chat, follow these simple steps:
 
 To easily connect multiple clients to Slacker Chat using a hotspot, follow these steps:
 
-1. **Set up a hotspot**: On the computer running the `Server`, create a hotspot by following the instructions for your operating system.
-2. **Connect to the hotspot**: On each client device, join the hotspot created by the server computer.
-3. **Discover and connect**: Launch the `SlackerClient` on each client device, and it will automatically discover and connect to the server on the local network.
-4. **Start chatting**: Enter your username and start chatting with others connected to the same hotspot network.
+1. On the computer running the `Server`, create a hotspot by following the instructions for your operating system.
+2. On each client device, join the hotspot created by the server computer.
+3. Launch the `SlackerClient` on each client device, and it will automatically discover and connect to the server on the local network.
+4. Enter your username and start chatting with others connected to the same hotspot network.
 
 Happy chatting!
 
