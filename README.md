@@ -1,6 +1,6 @@
 # Slacker Chat - A Simple UDP Chat Application
 
-Slacker Chat is a fun and lightweight college project that provides a simple chat platform for people to connect and communicate over their local network in real-time! We've created this application using Java for both the client and server side, and Java Swing for the GUI.
+Slacker Chat is a fun and lightweight college project that provides a simple chat platform for people to connect and communicate over their local network in real-time! We've created this application using Java for both the client and server side, and Java Swing for the GUI. Project by me and [Oluwaseun](https://github.com/Oluwaseun-Adediwura/Oluwaseun-Adediwura)
 
 ## How It Works
 
